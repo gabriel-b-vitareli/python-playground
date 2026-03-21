@@ -17,15 +17,12 @@ nomes = [
     'Dólar de Singapura'
 ]
 
-# Criando objeto da API
 c = CurrencyRates()
 
 try:
     reais = float(input('Digite quantos reais você tem: R$ '))
 
     print("\nBuscando taxas atuais...\n")
-
-    # UMA única requisição à API (base BRL)
     taxas = c.get_rates('BRL')
 
     print("=" * 50)
