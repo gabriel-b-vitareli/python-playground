@@ -1,6 +1,5 @@
 from forex_python.converter import CurrencyRates
 
-# Listas na mesma ordem
 moedas = ['USD','EUR','GBP','JPY','CHF','CAD','AUD','CNY','INR','SGD']
 
 simbolos = ['$', '€', '£', '¥', 'CHF', 'C$', 'A$', '¥', '₹', 'S$']
