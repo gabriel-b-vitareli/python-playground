@@ -18,7 +18,6 @@ elif pontos == 3:
     classificacao = "Média"
 else:
     classificacao = "Forte"
-
 possibilidades = 0
 
 if tem_minuscula: possibilidades += 26
