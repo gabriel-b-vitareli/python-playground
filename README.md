@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/status-em%20desenvolvimento-yellow" />
-  <img src="https://img.shields.io/badge/python-3.x-blue" />
+  <img src="https://img.shields.io/badge/python-3.13-blue" />
   <img src="https://img.shields.io/badge/licen%C3%A7a-MIT-green" />
   <img src="https://img.shields.io/badge/feito%20com-caf%C3%A9%20%26%20curiosidade-brown" />
 </p>
