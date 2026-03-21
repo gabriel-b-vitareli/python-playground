@@ -34,7 +34,6 @@ try:
 
         if moeda in taxas:
             convertido = reais * taxas[moeda]
-
             print(f"{nomes[i]:<22} ({moeda})")
             print(f"→ {simbolos[i]} {convertido:,.2f}")
             print("-" * 50)
